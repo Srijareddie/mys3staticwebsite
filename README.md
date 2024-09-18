@@ -1,1 +1,2 @@
-**Simple DevOps project to Practice Terraform with AWS and create a Static website on S3**
+
+**Portfolio hosted using S3 bucket which was initialised and processed using Terraform file.**
